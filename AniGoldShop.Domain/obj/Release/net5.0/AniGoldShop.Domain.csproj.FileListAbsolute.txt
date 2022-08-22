@@ -1,0 +1,12 @@
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\bin\Release\net5.0\AniGoldShop.Domain.deps.json
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\bin\Release\net5.0\AniGoldShop.Domain.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\bin\Release\net5.0\AniGoldShop.Domain.pdb
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.csproj.AssemblyReference.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.AssemblyInfoInputs.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.AssemblyInfo.cs
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.csproj.CoreCompileInputs.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\refint\AniGoldShop.Domain.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\AniGoldShop.Domain.pdb
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Domain\obj\Release\net5.0\ref\AniGoldShop.Domain.dll

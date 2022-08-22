@@ -1,0 +1,5 @@
+E:\My Project\Ani-Gold\Project\AniGoldShop\DBTest\obj\Debug\net5.0\DBTest.csproj.AssemblyReference.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\DBTest\obj\Debug\net5.0\DBTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\Ani-Gold\Project\AniGoldShop\DBTest\obj\Debug\net5.0\DBTest.AssemblyInfoInputs.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\DBTest\obj\Debug\net5.0\DBTest.AssemblyInfo.cs
+E:\My Project\Ani-Gold\Project\AniGoldShop\DBTest\obj\Debug\net5.0\DBTest.csproj.CoreCompileInputs.cache

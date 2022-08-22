@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="authorization succeeded" xml:space="preserve">
+    <value>Validation performed successfully</value>
+  </data>
+  <data name="before confirmd account" xml:space="preserve">
+    <value>The account has already been verified and activated</value>
+  </data>
+  <data name="Cellphone" xml:space="preserve">
+    <value>Cellphone</value>
+  </data>
+  <data name="changeUserPasswordSuccessfully" xml:space="preserve">
+    <value>The password change was successful</value>
+  </data>
+  <data name="Data exist" xml:space="preserve">
+    <value>Information is available</value>
+  </data>
+  <data name="Data not exist" xml:space="preserve">
+    <value>No information available</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="email address is not valid" xml:space="preserve">
+    <value>Email address is invalid.</value>
+  </data>
+  <data name="EmailNotValid" xml:space="preserve">
+    <value>Email Not Valid</value>
+  </data>
+  <data name="fetch data successfully" xml:space="preserve">
+    <value>fetch data successfully</value>
+  </data>
+  <data name="id is not valid" xml:space="preserve">
+    <value>Id is not valid</value>
+  </data>
+  <data name="Information review was performed" xml:space="preserve">
+    <value>Information review was performed</value>
+  </data>
+  <data name="Insert data successfully" xml:space="preserve">
+    <value>Registration information completed successfully.</value>
+  </data>
+  <data name="Maximum upload file" xml:space="preserve">
+    <value>The size of the uploaded file should not exceed 2 MB.</value>
+  </data>
+  <data name="mobile phone number is not valid" xml:space="preserve">
+    <value>Phone number is not valid</value>
+  </data>
+  <data name="New password with repeate pssword is not equal" xml:space="preserve">
+    <value>A new password is not the same as repeating a password</value>
+  </data>
+  <data name="Old password is not valid" xml:space="preserve">
+    <value>Old password is invalid</value>
+  </data>
+  <data name="operation done successfully" xml:space="preserve">
+    <value>mission accomplished</value>
+  </data>
+  <data name="password and rePassword not is equal" xml:space="preserve">
+    <value>Password and password repetition are not the same</value>
+  </data>
+  <data name="please enter your name" xml:space="preserve">
+    <value>Please enter your name</value>
+  </data>
+  <data name="please enter your password" xml:space="preserve">
+    <value>Please enter your password</value>
+  </data>
+  <data name="remove expired reserved parent successfully" xml:space="preserve">
+    <value>Deleted reserved parent deleted successfully</value>
+  </data>
+  <data name="RequiredValidation" xml:space="preserve">
+    <value>Enter value Is required</value>
+  </data>
+  <data name="Reserve parent campaign successfully" xml:space="preserve">
+    <value>Parent campaign reservation successfully completed</value>
+  </data>
+  <data name="reserved parent campaign in expired" xml:space="preserve">
+    <value>The booked parent campaign has expired</value>
+  </data>
+  <data name="Send email successfully" xml:space="preserve">
+    <value>Email was successful</value>
+  </data>
+  <data name="SendRecoveryPasswordCodeToEmailSuccessfully" xml:space="preserve">
+    <value>Successful sending of recovery code to user email</value>
+  </data>
+  <data name="sent email successfully" xml:space="preserve">
+    <value>Email sent successfully</value>
+  </data>
+  <data name="Service" xml:space="preserve">
+    <value>Service</value>
+  </data>
+  <data name="Template email for x is not define" xml:space="preserve">
+    <value>Email template not defined</value>
+  </data>
+  <data name="the userName can't be empty" xml:space="preserve">
+    <value>Username cannot be empty</value>
+  </data>
+  <data name="the userName used before by another" xml:space="preserve">
+    <value>Username has already been used by someone else</value>
+  </data>
+  <data name="update data successfully" xml:space="preserve">
+    <value>Information successfully updated.</value>
+  </data>
+  <data name="user id is not valid" xml:space="preserve">
+    <value>User ID is not valid.</value>
+  </data>
+  <data name="user name or password is invalid" xml:space="preserve">
+    <value>Username or password is not valid</value>
+  </data>
+  <data name="user successfully created" xml:space="preserve">
+    <value>User registration completed successfully</value>
+  </data>
+  <data name="UserId" xml:space="preserve">
+    <value>User ID</value>
+  </data>
+  <data name="UserWithThisEmailNotRegisterBefore" xml:space="preserve">
+    <value>User with this email has not registered before</value>
+  </data>
+  <data name="withdrawal Commit with error" xml:space="preserve">
+    <value>Deposit confirmation error encountered</value>
+  </data>
+  <data name="you can't request refund" xml:space="preserve">
+    <value>You can't request refund</value>
+  </data>
+</root>

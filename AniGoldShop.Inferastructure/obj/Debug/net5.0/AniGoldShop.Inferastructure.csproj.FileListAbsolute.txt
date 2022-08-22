@@ -1,0 +1,15 @@
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\bin\Debug\net5.0\AniGoldShop.Inferastructure.deps.json
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\bin\Debug\net5.0\AniGoldShop.Inferastructure.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\bin\Debug\net5.0\AniGoldShop.Inferastructure.pdb
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\bin\Debug\net5.0\AniGoldShop.Domain.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\bin\Debug\net5.0\AniGoldShop.Domain.pdb
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.csproj.AssemblyReference.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.AssemblyInfoInputs.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.AssemblyInfo.cs
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.csproj.CoreCompileInputs.cache
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.csproj.CopyComplete
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\refint\AniGoldShop.Inferastructure.dll
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\AniGoldShop.Inferastructure.pdb
+E:\My Project\Ani-Gold\Project\AniGoldShop\AniGoldShop.Inferastructure\obj\Debug\net5.0\ref\AniGoldShop.Inferastructure.dll

@@ -1,0 +1,119 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "AnigoldContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "AniGoldShop.Domain.Entities",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Agents]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AgentZones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BlogGroups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Blogs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Cities]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FactorItems]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Factors]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaidInfos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PayTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PriceTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ProductGroups]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Products]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Provinces]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Roles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SendInfos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SendTypes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Slides]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Specials]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserRoles]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-37HUNT9.AniGold",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
